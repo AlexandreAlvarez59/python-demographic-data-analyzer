@@ -1,3 +1,10 @@
+### How to test my work ? 
+
+You can try it on : https://replit.com/@alexandrealvare/boilerplate-demographic-data-analyzer-3#demographic_data_analyzer.py
+
+### What I did ?
+My work is on demographic_data_analyzer.py file, I answer questions about demographic data using Pandas.
+
 ### Assignment
 
 # Demographic Data Analyzer
